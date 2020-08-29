@@ -36,6 +36,7 @@ class DriveCarFacade:
 
 
     def highwayDrive(self):
+        print("\nGo for drive")
         self.door.unlock()
         self.seatBelt.fasten()
         self.engine.start()
@@ -48,6 +49,7 @@ class DriveCarFacade:
         self.gear.cruiseOn()
 
     def highwayPark(self):
+        print("\nGo for parking")
         self.gear.cruiseOff()
         for i in range(1,5):
             print("Wait for 1 min")

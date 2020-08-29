@@ -1,0 +1,70 @@
+On a weekday..
+
+
+Go for drive
+Door unlocked
+Seatbelt Fastened
+Engine started
+Head Lights ON
+AC ON, temperature :  20
+Handbreak released
+Wait for 1 min
+Gear shift UP -  1
+Wait for 1 min
+Gear shift UP -  2
+Wait for 1 min
+Gear shift UP -  3
+Short drive
+
+Go for parking
+Wait for 1 min
+Gear shift Down -  2
+Wait for 1 min
+Gear shift Down -  1
+Wait for 1 min
+Gear shift Down - NEUTRAL
+Handbreak pulled
+AC OFF, temperature :  25
+Head Lights OFF
+Engine stopped
+Seatbelt opened
+Door locked
+
+
+On a weekend..
+
+
+Go for drive
+Door unlocked
+Seatbelt Fastened
+Engine started
+Head Lights ON
+AC ON, temperature :  20
+Handbreak released
+Wait for 1 min
+Gear shift UP -  1
+Wait for 1 min
+Gear shift UP -  2
+Wait for 1 min
+Gear shift UP -  3
+Wait for 1 min
+Gear shift UP -  4
+Cruise control ON
+Long drive
+
+Go for parking
+Cruise control OFF
+Wait for 1 min
+Gear shift Down -  3
+Wait for 1 min
+Gear shift Down -  2
+Wait for 1 min
+Gear shift Down -  1
+Wait for 1 min
+Gear shift Down - NEUTRAL
+Handbreak pulled
+AC OFF, temperature :  25
+Head Lights OFF
+Engine stopped
+Seatbelt opened
+Door locked
